@@ -1,1 +1,6 @@
+trng1
+HELLO FROM TRAINING BRANCH
+master
 HELLO in FILE1
+
+resolved conflict
